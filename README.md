@@ -1,5 +1,4 @@
-#Calculating-the-Entropy-of-Romanian-language
-Calculus of the entropy of Romanian language
+#Calculus of the entropy of Romanian language
 
 Starting from the research done by Shannon, we note the work "Prediction and Entropy of Printed English", in which he presents 2 methods for estimating the entropy of the English language: 
 
